@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Group>
+    <Students>
+        <Student Age="35" Name="Todd Howard" Speciality="Gamedesigner"/>
+        <Student Age="19" Name="Ann Jackson" Speciality="Architechtor"/>
+        <Student Age="20" Name="Steve Maddison" Speciality="Designer"/>
+    </Students>
+</Group>
