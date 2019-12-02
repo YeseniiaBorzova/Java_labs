@@ -27,7 +27,7 @@ public abstract class AbsTramStation {
 
     @Override
     public String toString(){
-        String str = "Name: " + getName() + '\n';
+        String str = getName() + '\n';
         for(int i = 0; i < getNumOfLines();i++) {
             str += getNumber(i);
             str += ' ';

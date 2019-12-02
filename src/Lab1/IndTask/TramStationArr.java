@@ -3,11 +3,16 @@ package Lab1.IndTask;
 import java.util.Arrays;
 
 public class TramStationArr extends AbsTramStation {
+
      String name;
-     int[] arrOfRouts;
+     public int[] arrOfRouts = new int[0];
      AbsHour[] hourArr = new AbsHour[0];
 
-    TramStationArr(String name, int[] arrOfRouts){
+     public TramStationArr(){
+         this.name="None";
+     }
+
+    public TramStationArr(String name, int[] arrOfRouts){
         this.name = name;
         this.arrOfRouts = arrOfRouts;
     }

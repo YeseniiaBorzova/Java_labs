@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TramStation Name="Peremoha" ArrOfRoutes=" 24 56 78 91 2">
+    <Hour Count="0" Comments="YA LYBLY SASHUU"/>
+    <Hour Count="0" Comments="YA LYBLY MOLOKO"/>
+    <Hour Count="0" Comments="YA LYBLY SGUSCHENKU"/>
+</TramStation>

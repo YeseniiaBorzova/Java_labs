@@ -3,10 +3,10 @@ package Lab1.IndTask;
 import java.util.Arrays;
 
 public class Hour extends AbsHour {
-    int count;
-    String[] comments;
+   public int count;
+   public String[] comments;
 
-    Hour(int count, String[] comments){
+    public Hour(int count, String[] comments){
         this.count = count;
         Arrays.sort(comments);
         this.comments = comments;
