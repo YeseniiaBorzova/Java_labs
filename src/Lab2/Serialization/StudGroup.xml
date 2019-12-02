@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+ <object class="Lab2.Archive.StudGroup">
+  <void property="studs">
+   <array class="Lab2.Archive.Student" length="4">
+    <void index="0">
+     <object class="Lab2.Archive.Student">
+      <void property="age">
+       <int>21</int>
+      </void>
+      <void property="name">
+       <string>Jane Kelly</string>
+      </void>
+      <void property="speciality">
+       <string>Designer</string>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="Lab2.Archive.Student">
+      <void property="age">
+       <int>19</int>
+      </void>
+      <void property="name">
+       <string>Nick Jonson</string>
+      </void>
+      <void property="speciality">
+       <string>Programmer</string>
+      </void>
+     </object>
+    </void>
+    <void index="2">
+     <object class="Lab2.Archive.Student">
+      <void property="age">
+       <int>22</int>
+      </void>
+      <void property="name">
+       <string>George Miller</string>
+      </void>
+      <void property="speciality">
+       <string>Team lead</string>
+      </void>
+     </object>
+    </void>
+    <void index="3">
+     <object class="Lab2.Archive.Student">
+      <void property="age">
+       <int>18</int>
+      </void>
+      <void property="name">
+       <string>Shon Kane</string>
+      </void>
+      <void property="speciality">
+       <string>Network engeneer</string>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>

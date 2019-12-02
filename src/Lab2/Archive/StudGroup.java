@@ -1,9 +1,11 @@
 package Lab2.Archive;
 
+import java.io.Serializable;
 import java.util.Arrays;
 
-public class StudGroup {
+public class StudGroup implements Serializable {
 
+    private static final long serialVersionUID = -2916005428046978389L;
     Student[] arr;
 
     public StudGroup(){arr = new Student[0];}
