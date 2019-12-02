@@ -43,7 +43,7 @@ public class XMLTram extends TramStationArr implements FileWorkInterface{
     public static void main(String[] args) {
         XMLTram xmltram = new XMLTram();
         xmltram.fileRead("src\\Lab2\\IndTask\\Tram.xml");
-        xmltram.tram.setName("Peremoha");
+        //xmltram.tram.setName("Peremoha");
         xmltram.tram.setArrOfRoutes(" 24 56 78 91 2");
         xmltram.tram.getHour().get(0).setCount(45);
         xmltram.tram.getHour().get(1).setCount(90);
