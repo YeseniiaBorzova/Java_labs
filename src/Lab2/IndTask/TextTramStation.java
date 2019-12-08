@@ -30,8 +30,11 @@ public class TextTramStation extends TramStationArr implements FileWorkInterface
                 while(st.hasMoreTokens()){
                     try{
                         int temp  = Integer.parseInt(st.nextToken());
+                        if(temp<=0){throw new Nonpos();}
                         arrOfRouts = Arrays.copyOf(arrOfRouts, arrOfRouts.length+1);
                         arrOfRouts[arrOfRouts.length-1] = temp;
+                    }catch(Nonpos ex){
+                        System.out.println("Incorrect format of input. Some elements will be skipped!");
                     }
                     catch(NumberFormatException ex){
                         System.out.println(ex.getMessage());

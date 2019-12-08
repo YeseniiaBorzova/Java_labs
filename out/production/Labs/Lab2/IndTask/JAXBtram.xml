@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<TramStation ArrOfRoutes=" 24 56 78 91 2">
+<TramStation Name="Armiyska" ArrOfRoutes=" 24 56 78 91 2">
     <Hour Count="45" Comments="YA LYBLY SASHUU"/>
     <Hour Count="90" Comments="YA LYBLY MOLOKO"/>
     <Hour Count="3" Comments="YA LYBLY SGUSCHENKU"/>

@@ -1,7 +1,7 @@
 package Lab2.ListOfSubdirectories;
-import java.io.File;
-import java.io.FilenameFilter;
-import java.util.Scanner;
+        import java.io.File;
+        import java.io.FilenameFilter;
+        import java.util.Scanner;
 
 public class ShowDir {
 
@@ -20,7 +20,7 @@ public class ShowDir {
         }
 
     }
-        public static void main(String[] args) {showSubdirectories("D:\\study",0); }
+    public static void main(String[] args) {showSubdirectories("D:\\study",0); }
 
-    }
+}
 
