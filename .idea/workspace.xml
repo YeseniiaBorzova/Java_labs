@@ -15,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab3/DiffWords/DiffWords.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab3/UserData/UserData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
+            <state relative-caret-position="408">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -68,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/Lab3/Enum/Main.java" />
         <option value="$PROJECT_DIR$/src/Lab3/Enum/Month.java" />
         <option value="$PROJECT_DIR$/src/Lab3/DiffWords/DiffWords.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/UserData/UserData.java" />
       </list>
     </option>
   </component>
@@ -84,6 +85,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,13 +109,12 @@
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="DiffWords" type="462c0819:PsiDirectoryNode" />
+              <item name="UserData" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiffWords">
+  <component name="RunManager" selected="Application.UserData">
     <configuration name="DiffWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab3.DiffWords.DiffWords" />
       <module name="Labs" />
@@ -191,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextTramStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab2.IndTask.TextTramStation" />
+    <configuration name="UserData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.UserData.UserData" />
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab2.IndTask.*" />
+          <option name="PATTERN" value="Lab3.UserData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserData" />
         <item itemvalue="Application.DiffWords" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SAX" />
         <item itemvalue="Application.ShowDir" />
-        <item itemvalue="Application.TextTramStation" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +232,7 @@
     <frame x="-1087" y="650" width="1093" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22168441" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22555663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,7 +241,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32577905" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22727273" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22727273" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40401146" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,6 +574,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="101" selection-start-line="19" selection-start-column="101" selection-end-line="19" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/UserData/UserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
