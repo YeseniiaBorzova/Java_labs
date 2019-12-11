@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TramStation Name="Armiyska" ArrOfroutes="10 23 45 61 13">
+<TramStation Name="Armiyska" ArrOfRoutes="10 23 45 61 13">
     <Hour Count="5" Comments="fas aoure  wewwetg"/>
     <Hour Count="16" Comments="ww4w w875 qu4y qiu"/>
     <Hour Count="23" Comments="wouw 459 54u90"/>

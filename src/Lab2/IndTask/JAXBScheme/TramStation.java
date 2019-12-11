@@ -139,6 +139,10 @@ public class TramStation {
         this.arrOfRoutes = value;
     }
 
+    public void addHour(Hour h){
+        hour.add(h);
+    }
+
 
     /**
      * <p>Java class for anonymous complex type.
@@ -166,6 +170,13 @@ public class TramStation {
         protected int count;
         @XmlAttribute(name = "Comments", required = true)
         protected String comments;
+
+        public Hour(int count, String comments){
+            this.count = count;
+            this.comments = comments;
+        }
+
+        public Hour(){}
 
         /**
          * Gets the value of the count property.
@@ -205,6 +216,11 @@ public class TramStation {
          */
         public void setComments(String value) {
             this.comments = value;
+        }
+
+        @Override
+        public String toString(){
+            return getCount()+" passengers, Comments:\n"+getComments();
         }
 
     }

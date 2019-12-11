@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class TramStationArr extends AbsTramStation {
 
      String name;
+     String routes;
      public int[] arrOfRouts = new int[0];
      AbsHour[] hourArr = new AbsHour[0];
 
@@ -34,5 +35,6 @@ public class TramStationArr extends AbsTramStation {
         java.util.Arrays.sort(hourArr, new SortByCommentsComp());
     }
     public int getNumOfLines(){return arrOfRouts.length;}
+    public String getRouts(){return routes;}
 
 }

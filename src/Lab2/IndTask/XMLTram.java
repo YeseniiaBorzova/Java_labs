@@ -8,9 +8,19 @@ import java.beans.XMLDecoder;
 import java.io.*;
 
 public class XMLTram extends TramStationArr implements FileWorkInterface{
-    TramStation tram;
+    TramStation tram = new TramStation();
     JAXBContext jaxbContext;
 
+    public XMLTram(){
+        tram.setName(" ");
+        tram.setArrOfRoutes(" ");
+    }
+    public XMLTram( String Name, String ArrOfRoutes){
+        tram.setName(Name);
+        tram.setArrOfRoutes(ArrOfRoutes);
+    }
+
+    public TramStation getTram(){return tram;}
     @Override
     public void fileRead(String filename) {
         try{
@@ -40,11 +50,18 @@ public class XMLTram extends TramStationArr implements FileWorkInterface{
         }
     }
 
+    public void sortByCount(){
+        java.util.Collections.sort(tram.getHour(), new SortByPass());
+    }
+    public void sortByComment(){java.util.Collections.sort(tram.getHour(), new SprtByComments());}
+
     public static void main(String[] args) {
         XMLTram xmltram = new XMLTram();
         xmltram.fileRead("src\\Lab2\\IndTask\\Tram.xml");
         //xmltram.tram.setName("Peremoha");
+        System.out.println(xmltram.tram.getArrOfRoutes());
         xmltram.tram.setArrOfRoutes(" 24 56 78 91 2");
+        xmltram.tram.getArrOfRoutes();
         xmltram.tram.getHour().get(0).setCount(45);
         xmltram.tram.getHour().get(1).setCount(90);
         xmltram.tram.getHour().get(2).setCount(3);
