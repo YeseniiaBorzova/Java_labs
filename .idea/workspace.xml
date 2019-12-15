@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc103a3-4001-4a74-9eec-97e5d4d9e3f3" name="Default Changelist" comment="" />
+    <list default="true" id="2cc103a3-4001-4a74-9eec-97e5d4d9e3f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,32 +16,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Adder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Averager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="374">
+              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalc.fxml">
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -66,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab2/SAXandDOM/DOM.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/SAXandDOM/SAX.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/SortIntegers/DecrComp.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Archive/StoreToZip.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Archive/ReadFromZip.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Archive/Student.java" />
@@ -116,14 +116,18 @@
         <option value="$PROJECT_DIR$/src/Lab4/BlockingQuene/Adder.java" />
         <option value="$PROJECT_DIR$/src/Lab4/BlockingQuene/Averager.java" />
         <option value="$PROJECT_DIR$/src/Lab4/BlockingQuene/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcFX.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalc.fxml" />
+        <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1087" />
+    <option name="x" value="-1085" />
     <option name="y" value="-367" />
     <option name="width" value="1092" />
-    <option name="height" value="930" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,6 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,14 +159,13 @@
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="BlockingQuene" type="462c0819:PsiDirectoryNode" />
+              <item name="PiCalculation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,12 +174,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProektikiJava\Labs\src\Lab2\IndTask\JAXBScheme" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProektikiJava\Labs\src\Lab3\IndTask" />
       <recent name="D:\ProektikiJava\Labs\src\Lab3\Dictionary" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ProektikiJava\Labs\src\Lab2\IndTask\JAXBScheme" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -190,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.PiCalcFX">
     <configuration name="ClassFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab4.ClassFields.ClassFields" />
       <module name="Labs" />
@@ -230,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Enum.Main" />
+    <configuration name="PiCalcFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.PiCalculation.PiCalcFX" />
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.Enum.*" />
+          <option name="PATTERN" value="Lab4.PiCalculation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PiCalcFX" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SolveExpr" />
         <item itemvalue="Application.ClassFields" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -280,10 +284,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1087" y="-367" width="1092" height="930" extended-state="0" />
+    <frame x="-1085" y="-367" width="1092" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19186047" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19282946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -292,7 +296,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32555282" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28230867" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.03685504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19398752" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,70 +314,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2984496" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32555282" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.041405268" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19398752" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3022113" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/BinarySer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/Stud.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Archive/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/XMLDeSer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="48" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/XMLser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -636,12 +578,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/IndTask/Station.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/IndTask/StationController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -661,12 +603,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/Dictionary/Dictionary.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="29" selection-end-line="34" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/Dictionary/DictFX.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,10 +692,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Adder.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -764,13 +709,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab4/BlockingQuene/Adder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        <state relative-caret-position="340">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcFX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalc.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>
