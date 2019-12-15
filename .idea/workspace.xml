@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cc103a3-4001-4a74-9eec-97e5d4d9e3f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab2/IndTask/SprtByComments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab1/IndTask/Hour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab1/IndTask/Hour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab1/IndTask/TramStationArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab1/IndTask/TramStationArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/JAXBScheme/TramStation$Hour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/JAXBScheme/TramStation$Hour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/JAXBScheme/TramStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/JAXBScheme/TramStation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/Tram.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/Tram.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/XMLTram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labs/Lab2/IndTask/XMLTram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/IndTask/Hour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/IndTask/Hour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab1/IndTask/TramStationArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1/IndTask/TramStationArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/IndTask/JAXBScheme/TramStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/IndTask/JAXBScheme/TramStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/IndTask/Tram.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/IndTask/Tram.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/IndTask/XMLTram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/IndTask/XMLTram.java" afterDir="false" />
-    </list>
+    <list default="true" id="2cc103a3-4001-4a74-9eec-97e5d4d9e3f3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,23 +15,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab3/Enum/Month.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/ClassFields/ClassFields.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            <state relative-caret-position="238">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
-                <element signature="e#1511#1512#0" expanded="true" />
-                <element signature="e#1580#1581#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab3/Enum/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -115,14 +91,15 @@
         <option value="$PROJECT_DIR$/src/Lab2/IndTask/XMLTram.java" />
         <option value="$PROJECT_DIR$/src/Lab3/IndTask/Tram2.xml" />
         <option value="$PROJECT_DIR$/src/Lab3/IndTask/StationController.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/ClassFields/ClassFields.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="128" />
-    <option name="width" value="1440" />
-    <option name="height" value="773" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1087" />
+    <option name="y" value="-367" />
+    <option name="width" value="1092" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,6 +107,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,33 +124,18 @@
               <item name="Labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="DiffWords" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Labs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
-              <item name="Enum" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFields" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="E:/Labs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_labs" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -196,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.ClassFields">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab3.SimpleCalc.Calculator" />
       <module name="Labs" />
@@ -210,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DictFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.Dictionary.DictFX" />
+    <configuration name="ClassFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.ClassFields.ClassFields" />
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.Dictionary.*" />
+          <option name="PATTERN" value="Lab4.ClassFields.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiffWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab3.DiffWords.DiffWords" />
+    <configuration name="DictFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.Dictionary.DictFX" />
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab3.DiffWords.*" />
+          <option name="PATTERN" value="Lab3.Dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassFields" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.DictFX" />
         <item itemvalue="Application.StationFX" />
-        <item itemvalue="Application.DiffWords" />
       </list>
     </recent_temporary>
   </component>
@@ -286,9 +249,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1087" y="-367" width="1092" height="930" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22013423" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29263565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +261,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32555282" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.04249292" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.041405268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19398752" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -315,39 +279,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22013423" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32555282" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3675553" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.19398752" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3286119" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3022113" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab2/SortIntegers/IncrSumOfDigits.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab2/SortIntegers/Input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -688,12 +621,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/IndTask/Station.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/IndTask/StationController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -713,12 +646,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/Dictionary/Dictionary.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="29" selection-end-line="34" />
         </state>
       </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/Dictionary/DictFX.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -750,6 +683,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/Enum/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#1511#1512#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3/Enum/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -757,13 +701,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab3/Enum/Month.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab4/ClassFields/ClassFields.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
           <folding>
-            <element signature="e#1511#1512#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
