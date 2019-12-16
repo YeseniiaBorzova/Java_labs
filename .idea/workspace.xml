@@ -16,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsFX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="203">
+              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +29,35 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalc.fxml">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorProcess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="749">
+              <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/Factors.fxml">
           <provider editor-type-id="JavaFX-Scene-Builder" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="255">
+              <caret line="15" column="112" lean-forward="true" selection-start-line="15" selection-start-column="112" selection-end-line="15" selection-end-column="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,11 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab2/Archive/StoreToZip.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/Archive/ReadFromZip.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/Archive/Student.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/Archive/StudGroup.java" />
-        <option value="$PROJECT_DIR$/src/Lab2/Serialization/BinarySer.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Serialization/XMLser.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Serialization/XMLDeSer.java" />
         <option value="$PROJECT_DIR$/src/Lab2/Serialization/BinaryDeser.java" />
@@ -120,6 +130,11 @@
         <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java" />
         <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalc.fxml" />
         <option value="$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsFX.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorProcess.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/PrimeFactors/Faxtors.fxml" />
+        <option value="$PROJECT_DIR$/src/Lab4/PrimeFactors/Factors.fxml" />
+        <option value="$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsController.java" />
       </list>
     </option>
   </component>
@@ -127,7 +142,7 @@
     <option name="x" value="-1085" />
     <option name="y" value="-367" />
     <option name="width" value="1092" />
-    <option name="height" value="947" />
+    <option name="height" value="964" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +174,7 @@
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Lab4" type="462c0819:PsiDirectoryNode" />
-              <item name="PiCalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="PrimeFactors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,13 +209,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PiCalcFX">
-    <configuration name="ClassFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab4.ClassFields.ClassFields" />
+  <component name="RunManager" selected="Application.FactorsFX">
+    <configuration name="FactorsFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.PrimeFactors.FactorsFX" />
       <module name="Labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab4.ClassFields.*" />
+          <option name="PATTERN" value="Lab4.PrimeFactors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorsFX" />
         <item itemvalue="Application.PiCalcFX" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SolveExpr" />
-        <item itemvalue="Application.ClassFields" />
       </list>
     </recent_temporary>
   </component>
@@ -284,10 +299,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1085" y="-367" width="1092" height="947" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1085" y="-367" width="1092" height="964" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19282946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19670543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +310,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32555282" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.03685504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972324" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.19398752" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -316,43 +330,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/XMLser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="110" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Serialization/StudGroup.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/ListOfSubdirectories/ShowDir.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2/Archive/StoreToZip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab2/Archive/ReadFromZip.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -723,6 +700,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="72" column="21" lean-forward="true" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -741,10 +725,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab4/PiCalculation/PiCalcThread.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsFX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="203">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="749">
+          <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/Factors.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="112" lean-forward="true" selection-start-line="15" selection-start-column="112" selection-end-line="15" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/PrimeFactors/FactorsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane id="BoorderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="622.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="Lab4.PrimeFactors.FactorsController">
+  <center>
+    <TextArea fx:id="resultext" prefWidth="200.0" wrapText="true" />
+  </center>
+  <left>
+    <Pane prefHeight="622.0" prefWidth="214.0">
+      <children>
+        <TextField fx:id="fromText" layoutX="14.0" layoutY="21.0" prefHeight="36.951171875" prefWidth="165.0" promptText="Enter from" />
+        <TextField fx:id="toText" layoutX="14.0" layoutY="69.0" prefHeight="36.951171875" prefWidth="165.0" promptText="Enter to" />
+        <Button fx:id="startBtn" layoutX="14.0" layoutY="123.0" mnemonicParsing="false" onAction="#startClick" prefWidth="93.0" text="Start" />
+        <Button id="stopBtn" fx:id="suspendBtn" layoutX="14.0" layoutY="164.0" mnemonicParsing="false" onAction="#suspendClick" prefWidth="92.99997792968497" text="Suspend" />
+        <Button fx:id="resumeBtn" layoutX="14.0" layoutY="208.0" mnemonicParsing="false" onAction="#resumeClick" prefWidth="93.0" text="Resume" />
+        <Button fx:id="stopBtn" layoutX="14.0" layoutY="251.0" mnemonicParsing="false" onAction="#stopClick" prefWidth="93.0" text="Stop" />
+        <ProgressBar fx:id="progressBar" layoutX="0.0" layoutY="320.0" prefWidth="214.0" progress="0.0" />
+      </children>
+    </Pane>
+  </left>
+</BorderPane>
