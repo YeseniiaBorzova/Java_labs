@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<BorderPane id="BorderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="598.0" prefWidth="837.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="Lab4.IndTask.GraphController">
+  <center>
+    <BorderPane fx:id="graph" prefHeight="200.0" prefWidth="200.0" />
+  </center>
+  <left>
+    <Pane prefHeight="598.0" prefWidth="291.0000999999975">
+      <children>
+        <TextField fx:id="Fx" layoutX="12.0" layoutY="23.0" prefWidth="169.0" promptText="f(x)" />
+        <TextField fx:id="Gx" layoutX="12.0" layoutY="70.0" prefWidth="169.0" promptText="g(x)" />
+        <TextField fx:id="XFrom" layoutX="12.0" layoutY="120.0" prefWidth="68.0" promptText="X:From" />
+        <TextField fx:id="XTo" layoutX="102.0" layoutY="120.0" prefWidth="68.0" promptText="X:To" />
+        <TextField fx:id="XStep" layoutX="186.0" layoutY="120.0" prefWidth="68.0" promptText="X:Step" />
+        <TextField fx:id="YFrom" layoutX="12.0" layoutY="174.0" prefHeight="24.951171875" prefWidth="68.00009999999747" promptText="Y:From" />
+        <TextField fx:id="YTo" layoutX="102.0" layoutY="174.0" prefWidth="68.0" promptText="Y:To" />
+        <TextField fx:id="YStep" layoutX="189.0" layoutY="174.0" prefWidth="65.0" promptText="Y:Step" />
+        <TextField fx:id="aText" layoutX="188.0" layoutY="24.0" prefHeight="24.951171875" prefWidth="68.0" promptText="a" />
+        <TextField fx:id="bText" layoutX="186.0" layoutY="70.0" prefWidth="70.0" promptText="b" />
+        <Button id="Clear" fx:id="Run" layoutX="14.0" layoutY="252.0" mnemonicParsing="false" onAction="#constructClick" text="Run" />
+        <Button id="Run" fx:id="Clear" layoutX="191.0" layoutY="253.0" mnemonicParsing="false" onAction="#clearClick" text="Clear" />
+      </children>
+    </Pane>
+  </left>
+</BorderPane>
